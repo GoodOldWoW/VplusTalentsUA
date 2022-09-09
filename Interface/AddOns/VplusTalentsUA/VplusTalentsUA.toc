@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VplusTalentsUA |cFFFFFFFFv0.3|r
+## Notes: |cFFFFD100by Entravneri and Wayborn|r|n|nAddon adds a description of talents in Ukrainian language.|n|nDesigned for Vanilla Plus server. Server updates can break the translation of talents that change.|nReady for update 08.09.2022
+## Author: Entravneri, Wayborn
+## Version: 0.3
+
+Code.lua
