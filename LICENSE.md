@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2022 GoodOldWoW Community
+Copyright (c) 2022 Entravneri, MaxWayborn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
